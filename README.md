@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deepesh Yadav @rdyadav
 - 👀 I’m interested in developing new softwares and apps
-- 🌱 I’m currently learning cloud
+- 🌱 I’m currently learning laravel
 - 📫 Reach me at https://www.instagram.com/its_mr_rd/
 
 <!---
